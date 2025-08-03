@@ -1,0 +1,15 @@
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.exe
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.deps.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifier.dll
