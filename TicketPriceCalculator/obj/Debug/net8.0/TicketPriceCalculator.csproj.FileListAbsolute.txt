@@ -1,0 +1,15 @@
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.sourcelink.json
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Lowell Computer\Desktop\level 300 2nd sem\318\DCIT318_Assignment1\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
